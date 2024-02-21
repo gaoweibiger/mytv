@@ -12,7 +12,7 @@
 
 ## TVBOX访问：
 
-- [央视台+卫视台直播源](https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaoweibiger/IPTV/main/home.txt)
+- [央视台+卫视台直播源](https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaoweibiger/mytv/main/home.txt)
 
 - [央视台+卫视台直播源(含备用源)](https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaoweibiger/IPTV/main/sources/home_sources.txt)
 
